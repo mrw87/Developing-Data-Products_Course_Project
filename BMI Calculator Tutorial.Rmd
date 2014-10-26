@@ -13,7 +13,7 @@ As useful as this measure is, there are some exceptions to its efficacy:
     
 **How can I calculate my BMI?**
 
-The Body Mass Index (BMI) Calculator is an excellent tool for calculating your BMI! To get started, follow this link: https://mrw87.shinyapps.io/Server_UI/
+The Body Mass Index (BMI) Calculator is an excellent tool for calculating your BMI! To get started, follow this link: https://mrw87.shinyapps.io/Course_Project/
 
 1. Enter your weight in the text box labeled "Enter weight in pounds"
 
